@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-main-delta.vercel.app/](https://portfolio-website-main-delta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.huzaifashahid.xyz/](https://www.huzaifashahid.xyz/)
 
 - 📝 I regularly post fitness content on [https://www.instagram.com/huzaifalifts_?igsh=MjJ0Z285MGx2Nnlh](https://www.instagram.com/huzaifalifts_?igsh=MjJ0Z285MGx2Nnlh)
 
