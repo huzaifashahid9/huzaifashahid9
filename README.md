@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzaifashahid9" alt="huzaifashahid9" /></a> </p>
 
-- 🌱 I’m currently learning **React, Software Engineering**
+- 🌱 I’m currently learning **React Native, Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://www.huzaifashahid.xyz/](https://www.huzaifashahid.xyz/)
 
