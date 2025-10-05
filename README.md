@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **huzaifashahid288@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-huzaifa-a6b6902b4/](https://www.linkedin.com/in/muhammad-huzaifa-a6b6902b4/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/huzaifashahid9
+/](https://www.linkedin.com/in/huzaifashahid9
+/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
