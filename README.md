@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://www.huzaifashahid.xyz/](https://www.huzaifashahid.xyz/)
+- 👨‍💻 All of my projects are available at [https://www.huzaifashahid.online/](https://www.huzaifashahid.online/)
 
 - 📝 I regularly post fitness content on [https://www.instagram.com/huzaifalifts_?igsh=MjJ0Z285MGx2Nnlh](https://www.instagram.com/huzaifalifts_?igsh=MjJ0Z285MGx2Nnlh)
 
